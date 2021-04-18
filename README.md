@@ -1,0 +1,1 @@
+# pasironlinux-xfce4-terminal-colors
